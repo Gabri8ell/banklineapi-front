@@ -8,7 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ### Angular
 ### HTML
 ### Visual Studio Code
-###
+### TypeScript
 
 ## Feito na Dev Week da DIgital Innovation One 
 
